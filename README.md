@@ -24,7 +24,7 @@ Example
 ```
 int main(int argc, char *argv[])
 {
-	tl_init(3);	/*Initializes 3 counters*/
+	tl_init(2);	/*Initializes 2 counters*/
 	
 	tl_start(1);
 	/*Routine 1*/
